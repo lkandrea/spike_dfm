@@ -9,6 +9,16 @@
         <dist:delivery>
             <dist:on-demand />
         </dist:delivery>
+
         <dist:fusing dist:include="true" />
     </dist:module>
+
+    <application>
+        <activity
+            android:name=".DfmActivity"
+            android:exported="false"
+            android:label="@string/title_activity_dfm"
+            android:theme="@style/Theme.SpikeDfm.NoActionBar" />
+    </application>
+
 </manifest>

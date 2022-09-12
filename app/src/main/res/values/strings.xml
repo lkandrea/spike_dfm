@@ -44,4 +44,5 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
     <string name="title_some_dynamic">Some Dynamic Feature</string>
+    <string name="title_activity_dfm">DfmActivity</string>
 </resources>
